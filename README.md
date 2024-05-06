@@ -1,4 +1,4 @@
-# Web-Vulnerabilities
+# Web-Vulnerabilities Task
 
 ## Test the website to find the vulnerabilities using the ZAP tool
 
